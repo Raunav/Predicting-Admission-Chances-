@@ -1,4 +1,4 @@
-# Predicting-Admission-Chances
+# Predicting Admission Chances
 This project leverages machine learning techniques to predict the chances of a student being admitted to a university based on several academic and non-academic factors. It includes comparisons between multiple regression and ensemble learning models to identify the most effective model.
 
 ## Project Overview
